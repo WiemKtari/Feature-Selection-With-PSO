@@ -2,7 +2,7 @@
 
 **Breast Cancer Classification with Feature Selection using Particle Swarm Optimization (PSO)** 
 
-This project aims to improve classification performance and model efficiency by applying Particle Swarm Optimization (PSO) for feature selection on the Breast Cancer dataset. We compare the performance of different machine learning models (e.g., Random Forest, SVM) trained with all features versus selected features.
+This project aims to improve classification performance and model efficiency by applying Particle Swarm Optimization (PSO) for feature selection on the Breast Cancer dataset. We compare the performance of a machine learning model (e.g., Random Forest) trained with all features versus selected features.
 
 **The main objectives of the project are:**
 
